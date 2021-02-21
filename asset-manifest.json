@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KafeneReact/static/css/main.1cb6d014.chunk.css",
+    "main.js": "/KafeneReact/static/js/main.9f3b4334.chunk.js",
+    "main.js.map": "/KafeneReact/static/js/main.9f3b4334.chunk.js.map",
+    "runtime-main.js": "/KafeneReact/static/js/runtime-main.44fea7f8.js",
+    "runtime-main.js.map": "/KafeneReact/static/js/runtime-main.44fea7f8.js.map",
+    "static/js/2.d8fd31ab.chunk.js": "/KafeneReact/static/js/2.d8fd31ab.chunk.js",
+    "static/js/2.d8fd31ab.chunk.js.map": "/KafeneReact/static/js/2.d8fd31ab.chunk.js.map",
+    "static/js/3.e45157b2.chunk.js": "/KafeneReact/static/js/3.e45157b2.chunk.js",
+    "static/js/3.e45157b2.chunk.js.map": "/KafeneReact/static/js/3.e45157b2.chunk.js.map",
+    "index.html": "/KafeneReact/index.html",
+    "static/css/main.1cb6d014.chunk.css.map": "/KafeneReact/static/css/main.1cb6d014.chunk.css.map",
+    "static/js/2.d8fd31ab.chunk.js.LICENSE.txt": "/KafeneReact/static/js/2.d8fd31ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44fea7f8.js",
+    "static/js/2.d8fd31ab.chunk.js",
+    "static/css/main.1cb6d014.chunk.css",
+    "static/js/main.9f3b4334.chunk.js"
+  ]
+}
